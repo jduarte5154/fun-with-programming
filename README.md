@@ -1,4 +1,4 @@
 fun-with-programming
 ====================
 
-Random projects and school work displaying my programming abilities
+This repository contains any free time programming or learning exercises I may partake in. 
